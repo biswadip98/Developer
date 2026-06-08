@@ -1,0 +1,1 @@
+Hi, this is a 2nd file of branch B
